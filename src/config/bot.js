@@ -26,7 +26,7 @@ export const botConfig = {
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "DoorDash Community join it link below
-         https://discord.gg/x7Gure6b ",
+         https://discord.gg/x7Gure6b",
         // Activity type number (0 = Playing).
         type: 0, 
       },
